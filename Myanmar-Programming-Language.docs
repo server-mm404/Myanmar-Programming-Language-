@@ -1,0 +1,119 @@
+#Myanmar Programming Language 
+#HTML, CSS, JavaScript Syntax Documents
+
+1. HTML Tag များ
+
+<a> = <ဖ> (ဖွင့်ရန်)  
+<p> = <စ> (စာမျက်နှာ)  
+<img> = <ပုံ> (ရုပ်ပုံ)  
+<div> = ထပ် (ထပ်၍)  
+<strong> = ဖော်ပြ (ထပ်ဖော်ပြရန်)  
+<form> = <မှ>  
+<input> = <ဝင်>  
+<table> = <ဇယား>  
+<tr> = <၎င်းသို့>  
+<th> = <ခေါင်း>  
+<td> = <သို့>  
+<ol> = <စာရင်း>  
+<ul> = <မှတ်>  
+<li> = <စာ>
+
+2. Attribute များ
+
+href = သွား (သွားရန်လမ်းကြောင်း)  
+src = မှ (လည်ကောင်းတံမှ)  
+alt = ပြ (ပုံအဖြစ်ပြ)  
+attribute = ကို (ရည်ညွှန်းမှုကို)  
+type = ပုံစံ  
+name = အမည်  
+value = တန်ဖိုး
+
+3. Meta Tags
+
+<meta> = <သတ်မှတ်> (သတ်မှတ်ချက်)  
+charset = စာလုံးများ  
+name="viewport" = မျက်နှာပြင်  
+content = အကြောင်းအရာ  
+http-equiv = HTTP သတ်မှတ်ချက်  
+description = ဖော်ပြချက်  
+keywords = ရှာဖွေရေးစကားလုံးများ  
+author = ရေးသားသူ
+
+4. Form Validation Attributes
+
+required = လိုအပ်သည်  
+pattern = ပုံစံနည်းလမ်း  
+maxlength = အလျားအမြင့်ဆုံး  
+minlength = အလျားအနည်းဆုံး  
+min = အနည်းဆုံးတန်ဖိုး  
+max = အမြင့်ဆုံးတန်ဖိုး  
+step = တိုးတန်းခြားနားမှု  
+placeholder = ဉပမာစာသား
+
+5. Event Attributes
+
+onclick = နှိပ်သောအခါ  
+onmouseover = ပေါ်လာသောအခါ  
+onmouseout = ထွက်သွားသောအခါ  
+onload = ထည့်သွင်းသောအခါ  
+onchange = ပြောင်းလဲသောအခါ  
+oninput = သုံးစွဲသူထည့်သောအခါ  
+onsubmit = ပို့သောအခါ
+
+6. Document & Comment
+
+Comments = မှတ်ရန် (မှတ်သားရန်)  
+Documents = သတ်မှတ် (သတ်မှတ်ခြင်း)
+
+7. JavaScript DOM Elements
+
+document = စာရွက်စာတမ်း  
+window = ပြသမှုခွင်  
+getElementById = ID ဖြင့်ရယူ  
+getElementsByClassName = Class ဖြင့်ရယူ  
+getElementsByTagName = Tag ဖြင့်ရယူ  
+querySelector = ရွေးချယ်မည်  
+querySelectorAll = အားလုံးရွေးချယ်မည်  
+innerHTML = HTML အတွင်းပါဝင်မှု  
+innerText = စာသားအတွင်းပါဝင်မှု  
+style = ဒီဇိုင်း  
+classList = Class စာရင်း  
+addEventListener = ဖြည့်သွင်းဖြေဆိုမှု  
+removeEventListener = ဖြည့်သွင်းဖြေဆိုမှု ဖယ်ရှား
+
+8. CSS Attributes
+
+color = အရောင်  
+background = နောက်ခံ  
+font-size = စာလုံးအရွယ်  
+font-family = စာလုံးပုံစံ  
+margin = အနားခံ  
+padding = အတွင်းအကွာအဝေး  
+border = စွဲခြင်း  
+width = အနံ  
+height = အမြင့်  
+display = ပြသမှု  
+position = တည်နေရာ  
+top = အပေါ်ဘက်  
+left = ဘယ်ဘက်  
+right = ညာဘက်  
+bottom = အောက်ဘက်  
+opacity = ဖောက်ထွင်းမှု  
+visibility = မြင်ရမှု  
+z-index = အထပ်မြင့်
+
+9. SVG & Canvas Tags
+
+<svg> = SVG ပုံဆွဲခြင်း  
+<circle> = စက်ဝိုင်း  
+<rect> = ထောင့်မှန်ကြက်လပ်  
+<line> = မျဉ်းကြောင်း  
+<polygon> = အနားသတ်မြှား  
+<path> = လမ်းကြောင်း  
+<text> = စာသား  
+<canvas> = ပုံဆွဲသား
+
+
+---
+
+
